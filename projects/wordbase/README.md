@@ -1,0 +1,1 @@
+Here's a little project 'wordbase' written in Java. The application allows to translate required words and phrases, save it in dictionaries for fast access and use. It based on Yandex.Dictionary and Yandex.Translate API, and uses SQLite3 as database.
