@@ -69,6 +69,7 @@ public class WordBaseMain {
 
     }
 
+
     private static void addText(Dictionary dictionary, Connection c) throws IllegalAccessException {
         BufferedReader keyboard = new BufferedReader(new InputStreamReader(System.in));
         while(true){
